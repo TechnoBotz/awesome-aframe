@@ -134,7 +134,7 @@ Third-party components (of the entity-component-system pattern).
 - [Bmfont](https://github.com/bryik/aframe-bmfont-text-component) - Renders bitmap/SDF fonts for high-quality 2D text
 - [Vive Cursor](https://github.com/bryik/aframe-vive-cursor-component) - A cursor for HTC Vive controllers
 - [Differet look-at plus Billboard](https://github.com/blairmacintyre/aframe-look-at-component) - Slightly updated look-at, plus a billboard component to follow the current camera.
-- 
+
 ### Materials
 
 - [Draw](https://github.com/mayognaise/aframe-draw-shader) - Render from canvas
