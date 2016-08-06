@@ -133,7 +133,7 @@ Third-party components (of the entity-component-system pattern).
 - [Keyboard](https://github.com/richardanaya/aframe-keyboard) - Full VR keyboard for use with WebVR controllers
 - [Bmfont](https://github.com/bryik/aframe-bmfont-text-component) - Renders bitmap/SDF fonts for high-quality 2D text
 - [Vive Cursor](https://github.com/bryik/aframe-vive-cursor-component) - A cursor for HTC Vive controllers
-- [Differet look-at plus Billboard](https://github.com/blairmacintyre/aframe-look-at-component) - Slightly updated look-at, plus a billboard component to follow the current camera.
+- [Look-at plus Billboard](https://github.com/blairmacintyre/aframe-look-at-billboad-component) - Slightly updated look-at, plus a billboard component that follows the current camera.
 
 ### Materials
 
